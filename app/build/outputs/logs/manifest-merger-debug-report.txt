@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml:3:5-30
+		ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml:3:11-36
 		INJECTED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -14,9 +14,9 @@ ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidMan
 		INJECTED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\cerok\AndroidStudioProjects\Colgados\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:support-v4:21.0.3] C:\Users\cerok\AndroidStudioProjects\Colgados\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\cerok\.android\build-cache\468807b39fdf67b704cc289ea939967eb2302b6d\output\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\cerok\.android\build-cache\c0280a3991f52444210735a4ab1c61c694e90560\output\AndroidManifest.xml:16:5-19
 	android:label
 		ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml:8:9-41
 	android:allowBackup
@@ -34,17 +34,21 @@ ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidMan
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml:14:17-68
 	android:name
 		ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml:16:17-76
 	android:name
 		ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml:16:27-74
+activity#la.oja.colgados.JuegoActivity
+ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml:19:9-20:20
+	android:name
+		ADDED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml:19:19-48
 uses-sdk
 INJECTED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\cerok\AndroidStudioProjects\Colgados\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:support-v4:21.0.3] C:\Users\cerok\AndroidStudioProjects\Colgados\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\cerok\.android\build-cache\468807b39fdf67b704cc289ea939967eb2302b6d\output\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\cerok\.android\build-cache\c0280a3991f52444210735a4ab1c61c694e90560\output\AndroidManifest.xml:15:5-42
 	android:targetSdkVersion
 		INJECTED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\cerok\AndroidStudioProjects\Colgados\app\src\main\AndroidManifest.xml

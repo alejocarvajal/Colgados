@@ -1,5 +1,0 @@
-C:\Users\Parcerita\AndroidStudioProjects\Colgados\app\build\intermediates\classes\debug
-C:\Users\Parcerita\AndroidStudioProjects\Colgados\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2941ef1c98d73656079de484ff25b4243d412784.jar
-C:\Users\Parcerita\AndroidStudioProjects\Colgados\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-4ca02d4b23763bb4208b7ac5677bf46493448875.jar
-C:\Users\Parcerita\AndroidStudioProjects\Colgados\app\build\intermediates\pre-dexed\debug\classes-1d3218cda7c4f128093162a598b6f6d5a027a97d.jar
-C:\Users\Parcerita\AndroidStudioProjects\Colgados\app\build\intermediates\pre-dexed\debug\classes-d6a53b6f27f626014f3b84e765d63e5beedb6e93.jar
