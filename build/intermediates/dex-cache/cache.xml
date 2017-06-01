@@ -2,32 +2,58 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Parcerita\AndroidStudioProjects\Colgados\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        is-multidex="true"
+        jar="C:\Users\cerok\AndroidStudioProjects\Colgados\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="91ffcd6e9dcf6c39f177468621134a3eebab7d5d">
+        <dex dex="C:\Users\cerok\AndroidStudioProjects\Colgados\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7e9361c8cc7c63031d04d321ca628a97d485cff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cerok\.android\build-cache\468807b39fdf67b704cc289ea939967eb2302b6d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\Parcerita\AndroidStudioProjects\Colgados\app\build\intermediates\pre-dexed\debug\classes-1d3218cda7c4f128093162a598b6f6d5a027a97d.jar" />
+        <dex dex="C:\Users\cerok\AndroidStudioProjects\Colgados\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1d416078e25e51e942d1ddf2149d35efb353ed8\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Parcerita\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        is-multidex="true"
+        jar="C:\Users\cerok\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="C:\Users\Parcerita\AndroidStudioProjects\Colgados\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2941ef1c98d73656079de484ff25b4243d412784.jar" />
+        <dex dex="C:\Users\cerok\AndroidStudioProjects\Colgados\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_42cafcd1d6e358a60a6efa78b1fdd2c9da3e9225\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Parcerita\AndroidStudioProjects\Colgados\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        is-multidex="true"
+        jar="C:\Users\cerok\.android\build-cache\c0280a3991f52444210735a4ab1c61c694e90560\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\Parcerita\AndroidStudioProjects\Colgados\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-4ca02d4b23763bb4208b7ac5677bf46493448875.jar" />
+        <dex dex="C:\Users\cerok\AndroidStudioProjects\Colgados\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_578831886f7c334cb8849aa4f8b0fd01e7c71ba9\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Parcerita\AndroidStudioProjects\Colgados\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        is-multidex="true"
+        jar="C:\Users\cerok\.android\build-cache\c0280a3991f52444210735a4ab1c61c694e90560\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\Parcerita\AndroidStudioProjects\Colgados\app\build\intermediates\pre-dexed\debug\classes-d6a53b6f27f626014f3b84e765d63e5beedb6e93.jar" />
+        <dex dex="C:\Users\cerok\AndroidStudioProjects\Colgados\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e6ae6a9acff1aca19af037d4251321a51bea701\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cerok\AndroidStudioProjects\Colgados\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\cerok\AndroidStudioProjects\Colgados\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_131805b964ed9ae0c641d010d8033f5c2dd06c0f\classes.dex" />
     </item>
 
 </items>
