@@ -20,12 +20,12 @@
         "source": "C:\\Users\\cerok\\.android\\build-cache\\468807b39fdf67b704cc289ea939967eb2302b6d\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\cerok\\AndroidStudioProjects\\Colgados\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\cerok\\.android\\build-cache\\468807b39fdf67b704cc289ea939967eb2302b6d\\output\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\cerok\\AndroidStudioProjects\\Colgados\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\cerok\\.android\\build-cache\\468807b39fdf67b704cc289ea939967eb2302b6d\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\cerok\\AndroidStudioProjects\\Colgados\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\cerok\\.android\\build-cache\\468807b39fdf67b704cc289ea939967eb2302b6d\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "C:\\Users\\cerok\\AndroidStudioProjects\\Colgados\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",

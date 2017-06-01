@@ -1,10 +1,8 @@
 package la.oja.colgados;
 
 import android.content.Intent;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+import android.support.v7.app.ActionBarActivity;
 import android.view.View;
 
 
@@ -15,7 +13,8 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    void iniciarPartidaUnJugador(View v){
+
+    public void iniciarPartidaUnJugador(View v) {
         Intent intento = new Intent(this,JuegoActivity.class);
         startActivity(intento);
     }
